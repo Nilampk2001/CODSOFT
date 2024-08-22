@@ -3,5 +3,7 @@ This project involves creating an interactive number guessing game in Java. The 
 Additional features include:
 
 Attempt Limitation: Players are given a finite number of attempts to guess the correct number.
+
 Multiple Rounds: Players can choose to play multiple rounds, with their performance tracked across each round.
+
 Scoring System: A score is calculated based on the number of attempts taken to guess correctly or rounds won, providing an additional competitive element to the game.
